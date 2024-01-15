@@ -11,7 +11,7 @@ After forking this repo, you can use this GitHub Action to enable CI/CD for your
 
 | GitHub Action | Status |
 | ----------- | ----------- |
-| `azd` Deploy | [![Deploy](https://github.com/Azure/enterprise-azureai/actions/workflows/azure-dev.yml/badge.svg?branch=main)](https://github.com/Azure/enterprise-azureai/actions/workflows/azure-dev.yml) |
+| `azd` Deploy | [![Deploy](https://github.com/arthurhams/enterprise-azureai/actions/workflows/azure-dev.yml/badge.svg?branch=main)](https://github.com/arthurhams/enterprise-azureai/actions/workflows/azure-dev.yml) |
 
 ## Why
 
